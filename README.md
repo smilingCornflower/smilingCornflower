@@ -1,28 +1,18 @@
 # Hey there! I'm Nauryzbek Turganbayev
 
-I'm a 21-year-old backend developer from Almaty, Kazakhstan. Currently studying at Kazakh-British Technical University (KBTU), I specialize in building scalable APIs and backend systems using **Python** and **FastAPI**.
-
-## About Me:
-- Student at KBTU, majoring in computer science  
-- Backend-focused developer with strong experience in **FastAPI** and working knowledge of **Django**  
-- Comfortable with **microservices**, **Docker**, and cloud platforms like **AWS** and **GCP**  
-- Team-oriented, reliable, and easy to collaborate with
-
-## Core Skills:
-- Backend development: clean, secure, and scalable APIs  
-- Microservices: Docker, Redis, cloud deployment  
-- Databases: PostgreSQL, schema design, optimization  
-- System design: reliable and maintainable architectures
-
-## Also Exploring:
-- Growing interest in **Machine Learning** and **Data Science**
+I'm a 21-year-old backend developer from Almaty, Kazakhstan. Currently, I'm studying computer science at Kazakh-British Technical University (KBTU).  
+I specialize in building scalable APIs and backend systems using Python, primarily with FastAPI and Django. I enjoy solving problems independently and never hesitate to take on unfamiliar or complex tasks.  
+Teamwork comes naturally to me — I’m easygoing, don’t cause friction, and always try to keep collaboration smooth and productive.  
+Outside of programming, I’m into chess, anime, and comics.
 
 ## Technologies:
-- **Languages**: Python  
-- **Frameworks**: FastAPI, Django  
-- **Tools**: Docker, Git, Redis  
-- **Cloud**: AWS, Google Cloud  
-- **Databases**: PostgreSQL, MySQL  
+- **Frameworks**: FastAPI, Django
+- **Tools**: Docker, Docker Compose, Git, Redis, Poetry
+- **Cloud**: AWS (EC2, S3, RDS), Google Cloud, Yandex Cloud
+- **Databases**: PostgreSQL, MySQL
+
+I’m also comfortable building Telegram bots using `aiogram` or `python-telegram-bot`.  
+Additionally, I’m learning **Machine Learning**, **Computer Vision** and **Data Science**.
 
 ## Contact:
 - Email: [smiling.cornflower@gmail.com](mailto:smiling.cornflower@gmail.com)  

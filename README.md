@@ -1,6 +1,6 @@
 # Hey there! I'm Nauryzbek Turganbayev
 
-I'm a 20-year-old backend developer from Almaty, Kazakhstan. Currently studying at Kazakh-British Technical University (KBTU), I specialize in building scalable APIs and backend systems using **Python** and **FastAPI**.
+I'm a 21-year-old backend developer from Almaty, Kazakhstan. Currently studying at Kazakh-British Technical University (KBTU), I specialize in building scalable APIs and backend systems using **Python** and **FastAPI**.
 
 ## About Me:
 - Student at KBTU, majoring in computer science  
